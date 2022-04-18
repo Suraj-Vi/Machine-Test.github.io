@@ -1,0 +1,71 @@
+﻿@model List<Machinetest.Context.CategoryMaster>
+
+@{
+    ViewBag.Title = "CategoryList";
+}
+<p>
+    @Html.ActionLink("Create New", "Category")
+</p>
+<table class="table table-hover">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CategoryId</td>
+            <td>@item.CategoryName</td>
+            <td>
+                <a href="Category" class="btn btn-success">Create</a>
+                <a href="@Url.Action("Category",new { id=item.CategoryId,item.CategoryName}))" class="btn btn-success">Edit</a>
+                <a href="@Url.Action("Delete",new { id=item.CategoryId})" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+
+    }
+    <tr>
+        <td colspan="10">
+            @{
+                int PrevPageNo = ViewBag.PageNo - 1;
+                if (PrevPageNo <= 0)
+                {
+                    PrevPageNo = 1;
+                }
+                int NextPageNo = ViewBag.PageNo + 1;
+                if (NextPageNo > ViewBag.NoofPages)
+                {
+                    NextPageNo = ViewBag.NoofPages;
+                }
+            }
+            <ul class="pagination justify-content-center">
+                <li class="page-item">
+                    <a class="page-link" href="/Category/CategoryList?SortColumn=@ViewBag.SortColumn&IconClass=@ViewBag.IconClass&PageNo=@PrevPageNo"> Prev </a>
+                </li>
+                @for (int i = 0; i < ViewBag.NoofPages; i++)
+                {
+                    if ((i + 1 == ViewBag.PageNo))
+                    {
+                        <li class="page-item active">
+                            <a class="page-link" href="/Category/CategoryList?SortColumn=@ViewBag.SortColumn&IconClass=@ViewBag.IconClass&PageNo=@(i + 1)"> @(i + 1) </a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item ">
+                            <a class="page-link" href="/Category/CategoryList?SortColumn=@ViewBag.SortColumn&IconClass=@ViewBag.IconClass&PageNo=@(i+1)"> @(i + 1) </a>
+                        </li>
+                    }
+                }
+                <li class="page-item">
+                    <a class="page-link" href="/Category/CategoryList?SortColumn=@ViewBag.SortColumn&IconClass=@ViewBag.IconClass&PageNo=@NextPageNo"> Next </a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+
+

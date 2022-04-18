@@ -1,0 +1,164 @@
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\ApplicationInsights.config
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\csc.exe
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\System.Collections.Immutable.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\vbc.exe
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\VBCSCompiler.exe
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\roslyn\VBCSCompiler.exe.config
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Machinetest.dll.config
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Machinetest.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Machinetest.pdb
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Antlr3.Runtime.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\EntityFramework.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\EntityFramework.SqlServer.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.Web.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.WindowsServer.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.ApplicationInsights.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Google.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Newtonsoft.Json.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Owin.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.Helpers.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.Mvc.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.Optimization.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.Razor.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.WebPages.Deployment.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.WebPages.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.WebPages.Razor.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\WebGrease.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.Web.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AI.WindowsServer.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.ApplicationInsights.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.Helpers.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.Mvc.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.Optimization.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.Razor.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.WebPages.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.WebPages.Deployment.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\System.Web.WebPages.Razor.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Antlr3.Runtime.pdb
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Newtonsoft.Json.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\EntityFramework.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\EntityFramework.SqlServer.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Google.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\obj\Debug\Machinetest.csprojResolveAssemblyReference.cache
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\obj\Debug\Machinetest.dll
+c:\users\suraj vishwakarma\documents\visual studio 2015\Projects\Machinetest\Machinetest\obj\Debug\Machinetest.pdb
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\ApplicationInsights.config
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\csc.exe
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\vbc.exe
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\VBCSCompiler.exe
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Machinetest.dll.config
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Machinetest.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Machinetest.pdb
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Antlr3.Runtime.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\EntityFramework.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\EntityFramework.SqlServer.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.Web.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Newtonsoft.Json.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Owin.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.Helpers.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.Mvc.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.Optimization.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.Razor.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.WebPages.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.WebPages.Razor.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\WebGrease.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.Web.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.Helpers.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.Mvc.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.Optimization.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.Razor.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.WebPages.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\System.Web.WebPages.Razor.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Antlr3.Runtime.pdb
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Newtonsoft.Json.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\EntityFramework.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\EntityFramework.SqlServer.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\obj\Debug\Machinetest.csprojResolveAssemblyReference.cache
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\obj\Debug\Machinetest.dll
+C:\Users\SuRaj Vishwakarma\Desktop\Machinetest\Machinetest\obj\Debug\Machinetest.pdb
